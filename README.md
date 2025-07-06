@@ -1,2 +1,3 @@
 # django-rest-framework
-learning DRF
+
+following this [tutorial](https://www.django-rest-framework.org/tutorial/quickstart/)
